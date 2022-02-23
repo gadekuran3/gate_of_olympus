@@ -1,5 +1,5 @@
 var privacypolicy = "https://m.oke1app77.art/id/panduan";
-var applink = "https://ropres789.github.io/TESPLAY/app.html?ver="+ Math.random(); ;
+var applink = "https://gadekuran3.github.io/gate_of_olympus/app.html?ver="+ Math.random(); ;
  
 function stop() {
     throw new Error('LOG ERROR!')
